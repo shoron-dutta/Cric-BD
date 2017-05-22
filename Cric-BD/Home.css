@@ -1,0 +1,30 @@
+li{
+	border:1px solid black;
+	padding: 5px;
+	margin:2px;
+}
+h2,label{
+    width: 90%;
+    padding: 30px;
+    border: 2px solid black;
+    margin: 25px;
+	color:white;
+	font-size:150%;
+	text-align: center;
+	background-color:hsla(0,0%,0%,.8);
+}
+
+h3{
+	color:white;
+	background-color:gray;
+	padding:20px;
+	width:120px;
+	height:15px;
+	text-align:center;
+
+	
+}
+wrapper{
+	font-size:150%;
+	background-color:blue;
+}

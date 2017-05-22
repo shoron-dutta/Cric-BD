@@ -1,0 +1,107 @@
+* {
+font-family: Helvetica Neue, Arial, sans-serif;
+}
+
+body {
+ background-color:hsla(0,0,0%,0.9);
+}
+
+h1, table { 
+text-align: center; 
+}
+
+table {
+border-collapse: collapse;  
+width: 70%; 
+margin: 0 auto 5rem;
+}
+
+th, td { 
+padding: 1.5rem; 
+font-size: 1.3rem; 
+}
+
+tr {
+background: hsla(0, 0%, 75%,0.2); 
+}
+
+tr, td { 
+transition: .4s ease-in; 
+} 
+
+tr:first-child {
+background: hsla(0, 0%, 0%, 0.);
+}
+
+tr:nth-child(even) {
+background: hsla(0, 0%, 0%, 0.3);
+}
+
+td:empty {
+background: hsla(240, 100%, 25%, 0.1);
+}
+
+button{
+
+    border: none;
+    color: black;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+	border-radius:12em;
+
+}* {
+font-family: Helvetica Neue, Arial, sans-serif;
+}
+
+body {
+ background-color:hsla(0,0,0%,0.9);
+}
+
+h1, table { 
+text-align: center; 
+}
+
+table {
+border-collapse: collapse;  
+width: 70%; 
+margin: 0 auto 5rem;
+}
+
+th, td { 
+padding: 1.5rem; 
+font-size: 1.3rem; 
+}
+
+tr {
+background: hsla(0, 0%, 75%,0.2); 
+}
+
+tr, td { 
+transition: .4s ease-in; 
+} 
+
+tr:first-child {
+background: hsla(0, 0%, 0%, 0.);
+}
+
+tr:nth-child(even) {
+background: hsla(0, 0%, 0%, 0.3);
+}
+
+td:empty {
+background: hsla(240, 100%, 25%, 0.1);
+}
+
+button{
+
+    border: none;
+    color: black;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+	border-radius:12em;
+
+}
